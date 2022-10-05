@@ -13,4 +13,4 @@ Console.WriteLine ("The larger number is " +number1+" the lesser nuber is "+numb
 if (number2>number1)
 Console.WriteLine ("The larger number is " +number2+"the lesser number is "+number1);
 if (number2==number1)
-Console.WriteLine ("The numbers are equal");
+Console.WriteLine ("These numbers are equal");
